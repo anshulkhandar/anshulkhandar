@@ -35,7 +35,7 @@ education   : B.E. Information Technology @ I2IT Pune
 cgpa        : 9.36 / 10.00  (Ranked #2 in department)
 role        : Full Stack Developer Intern @ RentEdge
 wins        : 🥈 Dept Rank #2
-              🎖️  Technical Team Co-Lead @ IIC
+              🎖️ Technical Team Co-Lead @ IIC
 
 currently   :
   - Shipping RentEdge — a full-scale rental ecosystem
