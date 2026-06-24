@@ -34,8 +34,7 @@ location    : Pune, India 🇮🇳
 education   : B.E. Information Technology @ I2IT Pune
 cgpa        : 9.36 / 10.00  (Ranked #2 in department)
 role        : Full Stack Developer Intern @ RentEdge
-wins        : 🏆 DevClash 2026 Hackathon Winner
-              🥈 Dept Rank #2
+wins        : 🥈 Dept Rank #2
               🎖️  Technical Team Co-Lead @ IIC
 
 currently   :
